@@ -38,6 +38,8 @@ def main():
 
     plt.scatter(x, y, alpha=1)
     plt.xlim(-1, 100)
+    plt.xlabel("Clock Drift (ms)")
+    plt.ylabel("Frequency")
     plt.show()
 
     #plt.plot(*zip(*sorted(counts.items())))
