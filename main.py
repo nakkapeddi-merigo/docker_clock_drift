@@ -40,7 +40,8 @@ def main():
     plt.xlim(-1, 100)
     plt.xlabel("Clock Drift (ms)")
     plt.ylabel("Frequency")
-    plt.show()
+    #plt.show()
+    plt.savefig('clock_drift_distribution.png')
 
     #plt.plot(*zip(*sorted(counts.items())))
     #plt.xlim(0, 1)
