@@ -16,10 +16,10 @@ def append_to_buf():
 
 def filter_line(ln):
     if 'reply' in ln:
-        BUF.append(0) # negative means no adjustment needed
+        BUF.append(-1) # negative means no adjustment needed
     elif 'adjusting local clock' in ln:
         sublist = ln.split(" ")[-1].rstrip()
-        BUF.append(atof(sublist[:-1]))
+        BUF.append(atof(sublist[:-1])*1000)
 
 def count_elements(seq) -> dict:
     """Tally elements from `seq`."""
@@ -33,9 +33,16 @@ def main():
     counts = count_elements(BUF)
     print(counts)
 
-    plt.plot(*zip(*sorted(counts.items())))
-    plt.xlim(0, 1)
+    x = list(counts.keys())
+    y = list(counts.values())
+
+    plt.scatter(x, y, alpha=1)
+    plt.xlim(-1, 100)
     plt.show()
+
+    #plt.plot(*zip(*sorted(counts.items())))
+    #plt.xlim(0, 1)
+    #plt.show()
 
 if __name__ == "__main__":
     main()
