@@ -1,0 +1,572 @@
+      reply from 162.159.200.1: offset 0.011486 delay 0.023069, next query 185s
+reply from 162.159.200.1: offset 0.012619 delay 0.021968, next query 187s
+reply from 162.159.200.1: offset 0.016346 delay 0.016968, next query 197s
+reply from 162.159.200.1: offset 0.017744 delay 0.024074, next query 186s
+reply from 162.159.200.1: offset 3551.544183 delay 0.013561, next query 180s
+adjusting local clock by 3551.544183s
+adjtime failed: Invalid argument
+clock is now unsynced
+reply from 162.159.200.1: offset 244.689857 delay 0.100976, next query 33s
+reply from 162.159.200.1: offset -0.024322 delay 0.013680, next query 34s
+reply from 162.159.200.1: offset -0.024921 delay 0.013999, next query 30s
+reply from 162.159.200.1: offset -0.022230 delay 0.016794, next query 31s
+reply from 162.159.200.1: offset -0.022467 delay 0.018925, next query 30s
+reply from 162.159.200.1: offset -0.020724 delay 0.022145, next query 34s
+reply from 162.159.200.1: offset -0.026241 delay 0.014631, next query 34s
+reply from 162.159.200.1: offset -0.024003 delay 0.023313, next query 33s
+clock is now synced
+reply from 162.159.200.1: offset -0.024648 delay 0.022592, next query 34s
+reply from 162.159.200.1: offset -0.024949 delay 0.021817, next query 30s
+reply from 162.159.200.1: offset -0.024813 delay 0.021959, next query 1516s
+reply from 162.159.200.1: offset 0.010123 delay 0.023769, next query 1197s
+reply from 162.159.200.1: offset 0.039397 delay 0.023035, next query 1215s
+reply from 162.159.200.1: offset 0.055916 delay 0.015347, next query 1172s
+reply from 162.159.200.1: offset 0.140692 delay 0.127567, next query 1218s
+adjusting local clock by 0.055916s
+reply from 162.159.200.1: offset 0.124892 delay 0.023943, next query 30s
+reply from 162.159.200.1: offset 0.125014 delay 0.023177, next query 34s
+reply from 162.159.200.1: offset 0.124804 delay 0.023883, next query 31s
+reply from 162.159.200.1: offset 0.124797 delay 0.023320, next query 33s
+reply from 162.159.200.1: offset 0.121046 delay 0.016699, next query 32s
+reply from 162.159.200.1: offset 0.124136 delay 0.023337, next query 33s
+reply from 162.159.200.1: offset 0.123928 delay 0.023835, next query 33s
+adjusting local clock by 0.121046s
+reply from 162.159.200.1: offset 0.120306 delay 0.019041, next query 30s
+reply from 162.159.200.1: offset 0.123120 delay 0.020227, next query 32s
+reply from 162.159.200.1: offset 0.124455 delay 0.023691, next query 31s
+reply from 162.159.200.1: offset 0.125343 delay 0.021650, next query 33s
+reply from 162.159.200.1: offset 0.135474 delay 0.017975, next query 31s
+reply from 162.159.200.1: offset 0.134784 delay 0.018918, next query 31s
+adjusting local clock by 0.135474s
+reply from 162.159.200.1: offset 0.135507 delay 0.017996, next query 32s
+reply from 162.159.200.1: offset 0.135952 delay 0.019866, next query 34s
+reply from 162.159.200.1: offset 0.134952 delay 0.021648, next query 33s
+reply from 162.159.200.1: offset 0.131947 delay 0.014993, next query 31s
+reply from 162.159.200.1: offset 0.132342 delay 0.015077, next query 30s
+reply from 162.159.200.1: offset 0.138401 delay 0.023482, next query 30s
+reply from 162.159.200.1: offset 0.133568 delay 0.014790, next query 32s
+adjusting local clock by 0.133568s
+reply from 162.159.200.1: offset 0.135646 delay 0.018212, next query 31s
+reply from 162.159.200.1: offset 0.135383 delay 0.013440, next query 32s
+reply from 162.159.200.1: offset 0.135956 delay 0.018328, next query 32s
+no reply from 162.159.200.1 received in time, next query 300s
+peer 162.159.200.1 now invalid
+reply from 162.159.200.123: offset 0.153690 delay 0.024062, next query 8s
+reply from 162.159.200.123: offset 0.146399 delay 0.014769, next query 9s
+reply from 162.159.200.123: offset 0.147449 delay 0.023383, next query 5s
+peer 162.159.200.123 now valid
+reply from 162.159.200.123: offset 0.145461 delay 0.023078, next query 7s
+reply from 162.159.200.123: offset 0.154266 delay 0.023653, next query 5s
+reply from 162.159.200.123: offset 0.151482 delay 0.021810, next query 6s
+reply from 162.159.200.123: offset 0.150086 delay 0.024160, next query 33s
+reply from 162.159.200.123: offset 0.149787 delay 0.023450, next query 31s
+adjusting local clock by 0.146399s
+reply from 162.159.200.123: offset 0.145889 delay 0.015684, next query 31s
+reply from 162.159.200.123: offset 0.150896 delay 0.023300, next query 32s
+adjusting local clock by 0.145889s
+adjusting clock frequency by 0.594360 to 490.280365ppm
+reply from 162.159.200.123: offset 0.147467 delay 0.016886, next query 33s
+reply from 162.159.200.123: offset 0.151660 delay 0.020867, next query 32s
+reply from 162.159.200.123: offset 0.150183 delay 0.021935, next query 31s
+reply from 162.159.200.123: offset 0.150100 delay 0.021827, next query 34s
+reply from 162.159.200.123: offset 0.160922 delay 0.022332, next query 31s
+reply from 162.159.200.123: offset 0.161019 delay 0.020150, next query 33s
+reply from 162.159.200.123: offset 0.158890 delay 0.016539, next query 32s
+adjusting local clock by 0.158890s
+reply from 162.159.200.123: offset 0.161134 delay 0.019280, next query 30s
+reply from 162.159.200.123: offset 0.162658 delay 0.022127, next query 33s
+reply from 162.159.200.123: offset 0.162020 delay 0.022327, next query 30s
+reply from 162.159.200.123: offset 0.162067 delay 0.020255, next query 32s
+reply from 162.159.200.123: offset 0.162173 delay 0.020491, next query 31s
+reply from 162.159.200.123: offset 0.162328 delay 0.021030, next query 31s
+reply from 162.159.200.123: offset 0.163892 delay 0.022998, next query 34s
+reply from 162.159.200.123: offset 0.163177 delay 0.024075, next query 33s
+adjusting local clock by 0.161134s
+reply from 162.159.200.123: offset 0.159829 delay 0.017722, next query 34s
+adjusting local clock by 0.159829s
+reply from 162.159.200.123: offset 0.161492 delay 0.020252, next query 33s
+reply from 162.159.200.123: offset 0.173705 delay 0.023609, next query 31s
+reply from 162.159.200.123: offset 0.169448 delay 0.015103, next query 32s
+reply from 162.159.200.123: offset 0.172954 delay 0.023792, next query 31s
+reply from 162.159.200.123: offset 0.173587 delay 0.021961, next query 30s
+reply from 162.159.200.123: offset 0.174299 delay 0.022698, next query 34s
+reply from 162.159.200.123: offset 0.174507 delay 0.023487, next query 31s
+reply from 162.159.200.123: offset 0.174373 delay 0.023286, next query 33s
+adjusting local clock by 0.169448s
+reply from 162.159.200.123: offset 0.174232 delay 0.023496, next query 31s
+reply from 162.159.200.123: offset 0.173790 delay 0.023489, next query 32s
+reply from 162.159.200.123: offset 0.170861 delay 0.012590, next query 30s
+adjusting local clock by 0.170861s
+reply from 162.159.200.123: offset 0.171294 delay 0.014397, next query 34s
+reply from 162.159.200.123: offset 0.173433 delay 0.023320, next query 32s
+reply from 162.159.200.123: offset 0.174643 delay 0.022090, next query 30s
+reply from 162.159.200.123: offset 0.174863 delay 0.022319, next query 31s
+reply from 162.159.200.123: offset 0.171985 delay 0.012718, next query 31s
+reply from 162.159.200.123: offset 0.174540 delay 0.020647, next query 33s
+reply from 162.159.200.123: offset 0.174904 delay 0.022654, next query 33s
+reply from 162.159.200.123: offset 0.186774 delay 0.022506, next query 30s
+adjusting local clock by 0.171985s
+reply from 162.159.200.123: offset 0.187371 delay 0.022894, next query 32s
+reply from 162.159.200.123: offset 0.186364 delay 0.020858, next query 30s
+reply from 162.159.200.123: offset 0.186909 delay 0.019859, next query 33s
+reply from 162.159.200.123: offset 0.187952 delay 0.022667, next query 30s
+reply from 162.159.200.123: offset 0.184271 delay 0.014426, next query 33s
+adjusting local clock by 0.184271s
+reply from 162.159.200.123: offset 0.188052 delay 0.022970, next query 30s
+reply from 162.159.200.123: offset 0.184494 delay 0.014105, next query 33s
+reply from 162.159.200.123: offset 0.184677 delay 0.014270, next query 33s
+reply from 162.159.200.123: offset 0.187863 delay 0.022580, next query 33s
+reply from 162.159.200.123: offset 0.187282 delay 0.022034, next query 33s
+reply from 162.159.200.123: offset 0.185543 delay 0.020557, next query 30s
+reply from 162.159.200.123: offset 0.187851 delay 0.023695, next query 32s
+reply from 162.159.200.123: offset 0.185492 delay 0.027667, next query 33s
+adjusting local clock by 0.184494s
+adjusting clock frequency by 916.242827 to 1406.523177ppm
+reply from 162.159.200.123: offset 0.187486 delay 0.023811, next query 31s
+reply from 162.159.200.123: offset 0.187031 delay 0.022859, next query 33s
+reply from 162.159.200.123: offset 0.200904 delay 0.024473, next query 1520s
+reply from 162.159.200.123: offset 0.228228 delay 0.024764, next query 1519s
+reply from 162.159.200.123: offset 0.268139 delay 0.024077, next query 1542s
+reply from 162.159.200.123: offset 0.292474 delay 0.014175, next query 1531s
+adjusting local clock by 0.292474s
+reply from 162.159.200.123: offset 0.326197 delay 0.023736, next query 34s
+reply from 162.159.200.123: offset 0.324505 delay 0.021890, next query 34s
+reply from 162.159.200.123: offset 0.323689 delay 0.021502, next query 31s
+reply from 162.159.200.123: offset 0.329976 delay 0.009638, next query 32s
+reply from 162.159.200.123: offset 0.331982 delay 0.014773, next query 34s
+reply from 162.159.200.123: offset 0.334605 delay 0.022527, next query 31s
+reply from 162.159.200.123: offset 0.333915 delay 0.020689, next query 34s
+reply from 162.159.200.123: offset 0.334323 delay 0.022625, next query 33s
+adjusting local clock by 0.329976s
+reply from 162.159.200.123: offset 0.333452 delay 0.021245, next query 30s
+reply from 162.159.200.123: offset 0.334418 delay 0.022453, next query 34s
+reply from 162.159.200.123: offset 0.333375 delay 0.022740, next query 32s
+reply from 162.159.200.123: offset 0.328889 delay 0.012471, next query 31s
+adjusting local clock by 0.328889s
+reply from 162.159.200.123: offset 0.333353 delay 0.021353, next query 33s
+reply from 162.159.200.123: offset 0.332164 delay 0.018309, next query 30s
+reply from 162.159.200.123: offset 0.333344 delay 0.021222, next query 34s
+reply from 162.159.200.123: offset 0.332621 delay 0.021081, next query 31s
+reply from 162.159.200.123: offset 0.332683 delay 0.020823, next query 31s
+reply from 162.159.200.123: offset 0.343895 delay 0.018682, next query 32s
+reply from 162.159.200.123: offset 0.343795 delay 0.019508, next query 30s
+reply from 162.159.200.123: offset 0.345821 delay 0.021562, next query 30s
+adjusting local clock by 0.332164s
+reply from 162.159.200.123: offset 0.346906 delay 0.021073, next query 31s
+reply from 162.159.200.123: offset 0.346497 delay 0.021307, next query 30s
+reply from 162.159.200.123: offset 0.348027 delay 0.021289, next query 131s
+reply from 162.159.200.123: offset 0.346230 delay 0.022273, next query 124s
+reply from 162.159.200.123: offset 0.349947 delay 0.026791, next query 125s
+reply from 162.159.200.123: offset 0.349879 delay 0.026012, next query 131s
+adjusting clock frequency by 167.352143 to 667.352143ppm
+reply from 162.159.200.123: offset 0.360219 delay 0.024605, next query 1613s
+adjusting local clock by 0.335274s
+reply from 162.159.200.123: offset 0.387041 delay 0.023081, next query 33s
+reply from 162.159.200.123: offset 0.398675 delay 0.023160, next query 31s
+reply from 162.159.200.123: offset 0.394330 delay 0.013421, next query 94s
+reply from 162.159.200.123: offset 0.396516 delay 0.016546, next query 95s
+adjusting local clock by 0.394330s
+reply from 162.159.200.123: offset 0.399105 delay 0.021660, next query 32s
+reply from 162.159.200.123: offset 0.399900 delay 0.022088, next query 30s
+reply from 162.159.200.123: offset 0.395667 delay 0.013535, next query 33s
+reply from 162.159.200.123: offset 0.399211 delay 0.022338, next query 32s
+reply from 162.159.200.123: offset 0.396199 delay 0.016762, next query 32s
+reply from 162.159.200.123: offset 0.398741 delay 0.021400, next query 31s
+reply from 162.159.200.123: offset 0.399176 delay 0.022375, next query 32s
+adjusting local clock by 0.395667s
+reply from 162.159.200.123: offset 0.397362 delay 0.017227, next query 31s
+reply from 162.159.200.123: offset 0.395258 delay 0.013577, next query 32s
+reply from 162.159.200.123: offset 0.399522 delay 0.021623, next query 30s
+reply from 162.159.200.123: offset 0.399309 delay 0.019124, next query 34s
+adjusting local clock by 0.395258s
+reply from 162.159.200.123: offset 0.411488 delay 0.020947, next query 32s
+reply from 162.159.200.123: offset 0.411305 delay 0.021286, next query 34s
+reply from 162.159.200.123: offset 0.410177 delay 0.021394, next query 33s
+reply from 162.159.200.123: offset 0.409680 delay 0.021126, next query 33s
+reply from 162.159.200.123: offset 0.405107 delay 0.012705, next query 34s
+reply from 162.159.200.123: offset 0.408619 delay 0.023116, next query 33s
+adjusting local clock by 0.405107s
+reply from 162.159.200.123: offset 0.407978 delay 0.022502, next query 32s
+reply from 162.159.200.123: offset 0.408246 delay 0.022899, next query 33s
+reply from 162.159.200.123: offset 0.406942 delay 0.020356, next query 31s
+reply from 162.159.200.123: offset 0.405647 delay 0.016598, next query 30s
+reply from 162.159.200.123: offset 0.408583 delay 0.022041, next query 33s
+reply from 162.159.200.123: offset 0.405221 delay 0.014841, next query 32s
+reply from 162.159.200.123: offset 0.419568 delay 0.020442, next query 30s
+adjusting local clock by 0.405221s
+reply from 162.159.200.123: offset 0.416499 delay 0.013556, next query 33s
+reply from 162.159.200.123: offset 0.416633 delay 0.013778, next query 31s
+reply from 162.159.200.123: offset 0.420742 delay 0.022624, next query 33s
+reply from 162.159.200.123: offset 0.417791 delay 0.020182, next query 30s
+reply from 162.159.200.123: offset 0.416956 delay 0.012668, next query 33s
+reply from 162.159.200.123: offset 0.416253 delay 0.012186, next query 34s
+reply from 162.159.200.123: offset 0.417560 delay 0.017354, next query 34s
+adjusting local clock by 0.416253s
+adjusting clock frequency by 846.663203 to 1346.663203ppm
+reply from 162.159.200.123: offset 0.417246 delay 0.017832, next query 30s
+reply from 162.159.200.123: offset 0.419596 delay 0.022120, next query 31s
+reply from 162.159.200.123: offset 0.419205 delay 0.020907, next query 30s
+reply from 162.159.200.123: offset 0.419803 delay 0.020728, next query 30s
+reply from 162.159.200.123: offset 0.420920 delay 0.021035, next query 33s
+reply from 162.159.200.123: offset 0.414969 delay 0.012690, next query 34s
+reply from 162.159.200.123: offset 0.419016 delay 0.021653, next query 30s
+adjusting local clock by 0.414969s
+reply from 162.159.200.123: offset 0.415151 delay 0.012568, next query 30s
+reply from 162.159.200.123: offset 0.420797 delay 0.020977, next query 32s
+reply from 162.159.200.123: offset 0.416379 delay 0.015032, next query 31s
+reply from 162.159.200.123: offset 0.430429 delay 0.019367, next query 32s
+reply from 162.159.200.123: offset 0.427351 delay 0.012330, next query 30s
+reply from 162.159.200.123: offset 0.427821 delay 0.012785, next query 31s
+reply from 162.159.200.123: offset 0.431093 delay 0.018571, next query 32s
+adjusting local clock by 0.427351s
+reply from 162.159.200.123: offset 0.431028 delay 0.024754, next query 32s
+reply from 162.159.200.123: offset 0.430677 delay 0.020812, next query 33s
+reply from 162.159.200.123: offset 0.426868 delay 0.014322, next query 32s
+reply from 162.159.200.123: offset 0.425920 delay 0.014063, next query 33s
+reply from 162.159.200.123: offset 0.429552 delay 0.022183, next query 33s
+reply from 162.159.200.123: offset 0.425146 delay 0.013521, next query 33s
+reply from 162.159.200.123: offset 0.428687 delay 0.022000, next query 1608s
+adjusting local clock by 0.424675s
+reply from 162.159.200.123: offset 0.460219 delay 0.023383, next query 33s
+reply from 162.159.200.123: offset 0.459529 delay 0.021985, next query 30s
+reply from 162.159.200.123: offset 0.459579 delay 0.021741, next query 30s
+reply from 162.159.200.123: offset 0.455981 delay 0.029931, next query 33s
+reply from 162.159.200.123: offset 0.455387 delay 0.013678, next query 32s
+reply from 162.159.200.123: offset 0.455923 delay 0.016032, next query 33s
+reply from 162.159.200.123: offset 0.457878 delay 0.020379, next query 31s
+adjusting local clock by 0.455387s
+reply from 162.159.200.123: offset 0.457201 delay 0.021459, next query 32s
+reply from 162.159.200.123: offset 0.397738 delay 0.143152, next query 33s
+reply from 162.159.200.123: offset 0.457974 delay 0.022732, next query 30s
+reply from 162.159.200.123: offset 0.458103 delay 0.020968, next query 33s
+reply from 162.159.200.123: offset 0.469954 delay 0.020999, next query 31s
+reply from 162.159.200.123: offset 0.469899 delay 0.021022, next query 30s
+reply from 162.159.200.123: offset 0.466287 delay 0.012610, next query 1558s
+adjusting local clock by 0.466287s
+reply from 162.159.200.123: offset 0.486926 delay 0.022845, next query 31s
+reply from 162.159.200.123: offset 0.493749 delay 0.013977, next query 34s
+reply from 162.159.200.123: offset 0.495332 delay 0.017257, next query 32s
+reply from 162.159.200.123: offset 0.495147 delay 0.017635, next query 30s
+reply from 162.159.200.123: offset 0.497896 delay 0.022339, next query 33s
+reply from 162.159.200.123: offset 0.496286 delay 0.020639, next query 32s
+reply from 162.159.200.123: offset 0.496705 delay 0.021825, next query 32s
+reply from 162.159.200.123: offset 0.497241 delay 0.022420, next query 34s
+adjusting local clock by 0.493749s
+adjusting clock frequency by 481.941218 to 981.941218ppm
+reply from 162.159.200.123: offset 0.493888 delay 0.019440, next query 32s
+reply from 162.159.200.123: offset 0.491425 delay 0.013221, next query 33s
+adjusting local clock by 0.491425s
+reply from 162.159.200.123: offset 0.494236 delay 0.020961, next query 31s
+reply from 162.159.200.123: offset 0.491422 delay 0.011990, next query 32s
+reply from 162.159.200.123: offset 0.493310 delay 0.019604, next query 34s
+reply from 162.159.200.123: offset 0.489085 delay 0.012544, next query 31s
+reply from 162.159.200.123: offset 0.505118 delay 0.020485, next query 30s
+reply from 162.159.200.123: offset 0.505068 delay 0.019081, next query 31s
+reply from 162.159.200.123: offset 0.505879 delay 0.020541, next query 32s
+reply from 162.159.200.123: offset 0.501254 delay 0.012571, next query 30s
+adjusting local clock by 0.491422s
+reply from 162.159.200.123: offset 0.502263 delay 0.013506, next query 32s
+reply from 162.159.200.123: offset 0.504942 delay 0.019174, next query 32s
+reply from 162.159.200.123: offset 0.505931 delay 0.022105, next query 685s
+reply from 162.159.200.123: offset 0.520298 delay 0.023071, next query 670s
+reply from 162.159.200.123: offset 0.528904 delay 0.023075, next query 126s
+reply from 162.159.200.123: offset 0.523049 delay 0.013525, next query 121s
+reply from 162.159.200.123: offset 0.528405 delay 0.021955, next query 129s
+reply from 162.159.200.123: offset 0.526314 delay 0.021970, next query 124s
+adjusting local clock by 0.492431s
+reply from 162.159.200.123: offset 0.540466 delay 0.022519, next query 31s
+reply from 162.159.200.123: offset 0.535639 delay 0.014151, next query 32s
+reply from 162.159.200.123: offset 0.535920 delay 0.015160, next query 32s
+reply from 162.159.200.123: offset 0.538775 delay 0.022331, next query 30s
+reply from 162.159.200.123: offset 0.534894 delay 0.013793, next query 31s
+reply from 162.159.200.123: offset 0.539640 delay 0.021848, next query 33s
+adjusting local clock by 0.534894s
+reply from 162.159.200.123: offset 0.537627 delay 0.020307, next query 33s
+reply from 162.159.200.123: offset 0.533997 delay 0.013759, next query 32s
+reply from 162.159.200.123: offset 0.548350 delay 0.042232, next query 34s
+reply from 162.159.200.123: offset 0.536771 delay 0.022107, next query 33s
+reply from 162.159.200.123: offset 0.532065 delay 0.013526, next query 31s
+reply from 162.159.200.123: offset 0.535281 delay 0.020247, next query 32s
+reply from 162.159.200.123: offset 0.552976 delay 0.053564, next query 31s
+adjusting local clock by 0.532065s
+adjusting clock frequency by 568.644618 to 1068.644618ppm
+reply from 162.159.200.123: offset 0.536443 delay 0.021057, next query 34s
+reply from 162.159.200.123: offset 0.547093 delay 0.020907, next query 32s
+reply from 162.159.200.123: offset 0.542954 delay 0.012628, next query 33s
+reply from 162.159.200.123: offset 0.542128 delay 0.012704, next query 33s
+reply from 162.159.200.123: offset 0.544286 delay 0.017769, next query 33s
+reply from 162.159.200.123: offset 0.545178 delay 0.022733, next query 34s
+adjusting local clock by 0.542954s
+reply from 162.159.200.123: offset 0.544346 delay 0.022520, next query 33s
+reply from 162.159.200.123: offset 0.543389 delay 0.021841, next query 32s
+reply from 162.159.200.123: offset 0.542994 delay 0.022362, next query 32s
+reply from 162.159.200.123: offset 0.542332 delay 0.021737, next query 31s
+reply from 162.159.200.123: offset 0.543314 delay 0.022333, next query 34s
+reply from 162.159.200.123: offset 0.553716 delay 0.021500, next query 1588s
+reply from 162.159.200.123: offset 0.566185 delay 0.015836, next query 749s
+adjusting local clock by 0.566185s
+reply from 162.159.200.123: offset 0.583852 delay 0.024025, next query 33s
+reply from 162.159.200.123: offset 0.578172 delay 0.013312, next query 31s
+reply from 162.159.200.123: offset 0.594274 delay 0.021534, next query 33s
+reply from 162.159.200.123: offset 0.593689 delay 0.021862, next query 30s
+reply from 162.159.200.123: offset 0.594304 delay 0.019504, next query 31s
+reply from 162.159.200.123: offset 0.591846 delay 0.016951, next query 31s
+reply from 162.159.200.123: offset 0.594896 delay 0.021801, next query 32s
+reply from 162.159.200.123: offset 0.594213 delay 0.022165, next query 32s
+adjusting local clock by 0.578172s
+reply from 162.159.200.123: offset 0.593895 delay 0.022014, next query 33s
+reply from 162.159.200.123: offset 0.589839 delay 0.012580, next query 31s
+adjusting local clock by 0.589839s
+reply from 162.159.200.123: offset 0.592588 delay 0.019048, next query 32s
+reply from 162.159.200.123: offset 0.592099 delay 0.019304, next query 31s
+reply from 162.159.200.123: offset 0.593289 delay 0.021064, next query 32s
+reply from 162.159.200.123: offset 0.591825 delay 0.018985, next query 30s
+reply from 162.159.200.123: offset 0.589586 delay 0.012691, next query 30s
+reply from 162.159.200.123: offset 0.589673 delay 0.012636, next query 33s
+reply from 162.159.200.123: offset 0.593384 delay 0.020961, next query 33s
+reply from 162.159.200.123: offset 0.592384 delay 0.023574, next query 30s
+adjusting local clock by 0.589673s
+reply from 162.159.200.123: offset 0.593553 delay 0.022133, next query 33s
+reply from 162.159.200.123: offset 0.592305 delay 0.022513, next query 32s
+reply from 162.159.200.123: offset 0.604991 delay 0.023506, next query 32s
+reply from 162.159.200.123: offset 0.599288 delay 0.016277, next query 34s
+reply from 162.159.200.123: offset 0.602181 delay 0.019406, next query 30s
+reply from 162.159.200.123: offset 0.604023 delay 0.022346, next query 30s
+adjusting local clock by 0.599288s
+adjusting clock frequency by 737.566843 to 1237.566843ppm
+reply from 162.159.200.123: offset 0.604001 delay 0.022069, next query 32s
+reply from 162.159.200.123: offset 0.602499 delay 0.020129, next query 32s
+reply from 162.159.200.123: offset 0.599387 delay 0.014266, next query 34s
+reply from 162.159.200.123: offset 0.602381 delay 0.021471, next query 34s
+reply from 162.159.200.123: offset 0.600558 delay 0.020473, next query 32s
+reply from 162.159.200.123: offset 0.600514 delay 0.020932, next query 31s
+adjusting local clock by 0.599387s
+reply from 162.159.200.123: offset 0.599605 delay 0.019104, next query 31s
+reply from 162.159.200.123: offset 0.599795 delay 0.018465, next query 31s
+reply from 162.159.200.123: offset 0.600476 delay 0.020065, next query 32s
+reply from 162.159.200.123: offset 0.596774 delay 0.013392, next query 30s
+reply from 162.159.200.123: offset 0.601230 delay 0.021091, next query 32s
+adjusting local clock by 0.596774s
+reply from 162.159.200.123: offset 0.601487 delay 0.021154, next query 30s
+reply from 162.159.200.123: offset 0.601289 delay 0.020920, next query 31s
+reply from 162.159.200.123: offset 0.597292 delay 0.012152, next query 32s
+reply from 162.159.200.123: offset 0.609749 delay 0.011521, next query 31s
+reply from 162.159.200.123: offset 0.613328 delay 0.022296, next query 32s
+reply from 162.159.200.123: offset 0.613214 delay 0.022449, next query 31s
+reply from 162.159.200.123: offset 0.613730 delay 0.022484, next query 30s
+adjusting local clock by 0.609749s
+reply from 162.159.200.123: offset 0.614610 delay 0.022095, next query 32s
+reply from 162.159.200.123: offset 0.613778 delay 0.021843, next query 34s
+reply from 162.159.200.123: offset 0.612393 delay 0.021603, next query 33s
+reply from 162.159.200.123: offset 0.607941 delay 0.014434, next query 33s
+reply from 162.159.200.123: offset 0.611323 delay 0.022471, next query 34s
+adjusting local clock by 0.607941s
+reply from 162.159.200.123: offset 0.611265 delay 0.024508, next query 32s
+reply from 162.159.200.123: offset 0.605750 delay 0.014164, next query 30s
+reply from 162.159.200.123: offset 0.606341 delay 0.014342, next query 33s
+reply from 162.159.200.123: offset 0.609766 delay 0.022127, next query 33s
+reply from 162.159.200.123: offset 0.604996 delay 0.013763, next query 33s
+reply from 162.159.200.123: offset 0.619421 delay 0.020700, next query 30s
+reply from 162.159.200.123: offset 0.618469 delay 0.017814, next query 30s
+adjusting local clock by 0.604996s
+reply from 162.159.200.123: offset 0.617994 delay 0.014025, next query 33s
+reply from 162.159.200.123: offset 0.620258 delay 0.022146, next query 34s
+reply from 162.159.200.123: offset 0.615966 delay 0.012713, next query 31s
+reply from 162.159.200.123: offset 0.619812 delay 0.020889, next query 31s
+reply from 162.159.200.123: offset 0.619683 delay 0.020796, next query 33s
+reply from 162.159.200.123: offset 0.614916 delay 0.012251, next query 33s
+adjusting local clock by 0.614916s
+reply from 162.159.200.123: offset 0.618355 delay 0.020370, next query 30s
+reply from 162.159.200.123: offset 0.619457 delay 0.021216, next query 33s
+reply from 162.159.200.123: offset 0.614236 delay 0.012589, next query 34s
+reply from 162.159.200.123: offset 0.616961 delay 0.020597, next query 30s
+reply from 162.159.200.123: offset 0.617851 delay 0.022607, next query 31s
+reply from 162.159.200.123: offset 0.618500 delay 0.022934, next query 30s
+reply from 162.159.200.123: offset 0.614313 delay 0.014041, next query 33s
+reply from 162.159.200.123: offset 0.617547 delay 0.022463, next query 33s
+adjusting local clock by 0.614236s
+reply from 162.159.200.123: offset 0.625284 delay 0.013899, next query 34s
+reply from 162.159.200.123: offset 0.627909 delay 0.022734, next query 32s
+reply from 162.159.200.123: offset 0.623644 delay 0.013526, next query 32s
+adjusting local clock by 0.623644s
+adjusting clock frequency by 1280.000000 to 1780.000000ppm
+reply from 162.159.200.123: offset 0.624572 delay 0.016823, next query 30s
+reply from 162.159.200.123: offset 0.623264 delay 0.013539, next query 30s
+reply from 162.159.200.123: offset 0.628676 delay 0.022120, next query 33s
+reply from 162.159.200.123: offset 0.623189 delay 0.013140, next query 34s
+reply from 162.159.200.123: offset 0.621471 delay 0.013740, next query 31s
+reply from 162.159.200.123: offset 0.626691 delay 0.020487, next query 32s
+reply from 162.159.200.123: offset 0.626210 delay 0.022463, next query 31s
+reply from 162.159.200.123: offset 0.625586 delay 0.020429, next query 32s
+adjusting local clock by 0.623189s
+reply from 162.159.200.123: offset 0.621500 delay 0.013825, next query 31s
+reply from 162.159.200.123: offset 0.622819 delay 0.013828, next query 30s
+reply from 162.159.200.123: offset 0.622814 delay 0.013448, next query 34s
+reply from 162.159.200.123: offset 0.625569 delay 0.023000, next query 34s
+adjusting local clock by 0.622814s
+reply from 162.159.200.123: offset 0.633485 delay 0.014792, next query 30s
+reply from 162.159.200.123: offset 0.637149 delay 0.021137, next query 30s
+reply from 162.159.200.123: offset 0.638486 delay 0.021061, next query 32s
+reply from 162.159.200.123: offset 0.633107 delay 0.012766, next query 31s
+reply from 162.159.200.123: offset 0.638370 delay 0.021180, next query 30s
+reply from 162.159.200.123: offset 0.638290 delay 0.022448, next query 30s
+reply from 162.159.200.123: offset 0.638602 delay 0.021950, next query 33s
+adjusting local clock by 0.633107s
+reply from 162.159.200.123: offset 0.633864 delay 0.014503, next query 34s
+reply from 162.159.200.123: offset 0.636501 delay 0.021757, next query 31s
+reply from 162.159.200.123: offset 0.632583 delay 0.013228, next query 34s
+reply from 162.159.200.123: offset 0.635895 delay 0.022389, next query 30s
+reply from 162.159.200.123: offset 0.635460 delay 0.020662, next query 33s
+adjusting local clock by 0.632583s
+reply from 162.159.200.123: offset 0.635445 delay 0.020390, next query 32s
+reply from 162.159.200.123: offset 0.635401 delay 0.023180, next query 34s
+reply from 162.159.200.123: offset 0.634735 delay 0.022110, next query 33s
+reply from 162.159.200.123: offset 0.645326 delay 0.020859, next query 32s
+reply from 162.159.200.123: offset 0.641371 delay 0.012408, next query 30s
+reply from 162.159.200.123: offset 0.645837 delay 0.021023, next query 34s
+adjusting local clock by 0.641371s
+reply from 162.159.200.123: offset 0.644955 delay 0.020922, next query 30s
+reply from 162.159.200.123: offset 0.645227 delay 0.020777, next query 30s
+reply from 162.159.200.123: offset 0.646212 delay 0.022435, next query 32s
+reply from 162.159.200.123: offset 0.644897 delay 0.020345, next query 34s
+reply from 162.159.200.123: offset 0.644622 delay 0.022635, next query 33s
+reply from 162.159.200.123: offset 0.644242 delay 0.022655, next query 32s
+reply from 162.159.200.123: offset 0.643715 delay 0.022283, next query 31s
+adjusting local clock by 0.644897s
+reply from 162.159.200.123: offset 0.643719 delay 0.022264, next query 32s
+reply from 162.159.200.123: offset 0.643440 delay 0.022181, next query 32s
+reply from 162.159.200.123: offset 0.641075 delay 0.019639, next query 32s
+reply from 162.159.200.123: offset 0.639862 delay 0.016031, next query 30s
+reply from 162.159.200.123: offset 0.642843 delay 0.020647, next query 34s
+adjusting local clock by 0.639862s
+reply from 162.159.200.123: offset 0.641865 delay 0.020513, next query 30s
+reply from 162.159.200.123: offset 0.642133 delay 0.018957, next query 33s
+reply from 162.159.200.123: offset 0.654526 delay 0.020897, next query 34s
+reply from 162.159.200.123: offset 0.652112 delay 0.019249, next query 34s
+reply from 162.159.200.123: offset 0.652228 delay 0.021020, next query 31s
+reply from 162.159.200.123: offset 0.646564 delay 0.017398, next query 33s
+reply from 162.159.200.123: offset 0.650629 delay 0.020678, next query 33s
+adjusting local clock by 0.646564s
+adjusting clock frequency by 1280.000000 to 1780.000000ppm
+reply from 162.159.200.123: offset 0.650250 delay 0.020172, next query 30s
+reply from 162.159.200.123: offset 0.650155 delay 0.020043, next query 33s
+reply from 162.159.200.123: offset 0.650492 delay 0.021475, next query 34s
+reply from 162.159.200.123: offset 0.645250 delay 0.013786, next query 33s
+reply from 162.159.200.123: offset 0.646605 delay 0.018966, next query 31s
+reply from 162.159.200.123: offset 0.649047 delay 0.022774, next query 32s
+reply from 162.159.200.123: offset 0.657027 delay 0.013179, next query 33s
+adjusting local clock by 0.657027s
+reply from 162.159.200.123: offset 0.656054 delay 0.013218, next query 32s
+reply from 162.159.200.123: offset 0.659160 delay 0.019216, next query 32s
+reply from 162.159.200.123: offset 0.661987 delay 0.021111, next query 32s
+reply from 162.159.200.123: offset 0.659061 delay 0.021983, next query 32s
+reply from 162.159.200.123: offset 0.694928 delay 0.094864, next query 32s
+reply from 162.159.200.123: offset 0.658832 delay 0.021943, next query 33s
+reply from 162.159.200.123: offset 0.656830 delay 0.019748, next query 34s
+reply from 162.159.200.123: offset 0.652242 delay 0.013633, next query 32s
+adjusting local clock by 0.656054s
+reply from 162.159.200.123: offset 0.653383 delay 0.024033, next query 34s
+reply from 162.159.200.123: offset 0.656315 delay 0.022378, next query 414s
+no reply from 162.159.200.123 received in time, next query 300s
+peer 162.159.200.123 now invalid
+reply from 162.159.200.1: offset 0.486416 delay 0.020764, next query 68s
+reply from 162.159.200.1: offset 0.483357 delay 0.020829, next query 69s
+reply from 162.159.200.1: offset 0.478971 delay 0.017533, next query 68s
+peer 162.159.200.1 now valid
+reply from 162.159.200.1: offset 0.492788 delay 0.022769, next query 69s
+reply from 162.159.200.1: offset 0.490957 delay 0.022748, next query 66s
+reply from 162.159.200.1: offset 0.484586 delay 0.014097, next query 67s
+reply from 162.159.200.1: offset 0.485178 delay 0.020644, next query 396s
+reply from 162.159.200.1: offset 0.492804 delay 0.026187, next query 411s
+adjusting local clock by 0.484586s
+reply from 162.159.200.1: offset 0.507031 delay 0.025912, next query 33s
+reply from 162.159.200.1: offset 0.504759 delay 0.022871, next query 33s
+reply from 162.159.200.1: offset 0.500681 delay 0.014341, next query 34s
+reply from 162.159.200.1: offset 0.515375 delay 0.022074, next query 31s
+reply from 162.159.200.1: offset 0.515347 delay 0.021801, next query 30s
+reply from 162.159.200.1: offset 0.534202 delay 0.058065, next query 32s
+adjusting local clock by 0.500681s
+reply from 162.159.200.1: offset 0.516730 delay 0.022038, next query 33s
+reply from 162.159.200.1: offset 0.511205 delay 0.014097, next query 33s
+reply from 162.159.200.1: offset 0.513974 delay 0.020784, next query 32s
+reply from 162.159.200.1: offset 0.515507 delay 0.022033, next query 32s
+reply from 162.159.200.1: offset 0.515405 delay 0.020688, next query 30s
+adjusting local clock by 0.511205s
+reply from 162.159.200.1: offset 0.515953 delay 0.019851, next query 34s
+reply from 162.159.200.1: offset 0.515317 delay 0.021485, next query 31s
+reply from 162.159.200.1: offset 0.511231 delay 0.012491, next query 33s
+reply from 162.159.200.1: offset 0.514865 delay 0.021087, next query 31s
+reply from 162.159.200.1: offset 0.512368 delay 0.015540, next query 33s
+adjusting local clock by 0.511231s
+reply from 162.159.200.1: offset 0.514997 delay 0.022466, next query 33s
+reply from 162.159.200.1: offset 0.511683 delay 0.016485, next query 32s
+reply from 162.159.200.1: offset 0.527457 delay 0.023329, next query 34s
+reply from 162.159.200.1: offset 0.525626 delay 0.022201, next query 31s
+reply from 162.159.200.1: offset 0.521576 delay 0.014171, next query 32s
+reply from 162.159.200.1: offset 0.525994 delay 0.022495, next query 34s
+adjusting local clock by 0.521576s
+adjusting clock frequency by 31.359955 to 531.359955ppm
+reply from 162.159.200.1: offset 0.525038 delay 0.021629, next query 32s
+reply from 162.159.200.1: offset 0.525019 delay 0.021580, next query 33s
+reply from 162.159.200.1: offset 0.521220 delay 0.017028, next query 30s
+reply from 162.159.200.1: offset 0.525764 delay 0.022327, next query 30s
+reply from 162.159.200.1: offset 0.525524 delay 0.022566, next query 30s
+reply from 162.159.200.1: offset 0.526418 delay 0.022522, next query 32s
+reply from 162.159.200.1: offset 0.526250 delay 0.022156, next query 34s
+adjusting local clock by 0.521220s
+reply from 162.159.200.1: offset 0.524504 delay 0.019483, next query 34s
+reply from 162.159.200.1: offset 0.524146 delay 0.022779, next query 32s
+reply from 162.159.200.1: offset 0.536612 delay 0.022002, next query 33s
+reply from 162.159.200.1: offset 0.536194 delay 0.022617, next query 33s
+adjusting local clock by 0.524504s
+reply from 162.159.200.1: offset 0.535820 delay 0.022433, next query 31s
+reply from 162.159.200.1: offset 0.531560 delay 0.013610, next query 34s
+reply from 162.159.200.1: offset 0.531125 delay 0.014693, next query 34s
+reply from 162.159.200.1: offset 0.530192 delay 0.012703, next query 32s
+reply from 162.159.200.1: offset 0.534171 delay 0.020654, next query 34s
+adjusting local clock by 0.530192s
+reply from 162.159.200.1: offset 0.532232 delay 0.019404, next query 30s
+reply from 162.159.200.1: offset 0.533760 delay 0.021103, next query 32s
+reply from 162.159.200.1: offset 0.534207 delay 0.021770, next query 32s
+reply from 162.159.200.1: offset 0.533483 delay 0.021070, next query 33s
+reply from 162.159.200.1: offset 0.533317 delay 0.021632, next query 33s
+reply from 162.159.200.1: offset 0.544905 delay 0.019358, next query 30s
+reply from 162.159.200.1: offset 0.545482 delay 0.020672, next query 33s
+adjusting local clock by 0.544905s
+reply from 162.159.200.1: offset 0.545089 delay 0.021227, next query 31s
+reply from 162.159.200.1: offset 0.545371 delay 0.022411, next query 30s
+reply from 162.159.200.1: offset 0.546724 delay 0.023058, next query 30s
+reply from 162.159.200.1: offset 0.546902 delay 0.022052, next query 30s
+reply from 162.159.200.1: offset 0.546523 delay 0.019708, next query 32s
+reply from 162.159.200.1: offset 0.543080 delay 0.014130, next query 33s
+reply from 162.159.200.1: offset 0.536698 delay 0.014682, next query 30s
+adjusting local clock by 0.543080s
+reply from 162.159.200.1: offset 0.543977 delay 0.013579, next query 33s
+reply from 162.159.200.1: offset 0.543092 delay 0.013527, next query 33s
+reply from 162.159.200.1: offset 0.542206 delay 0.014631, next query 31s
+reply from 162.159.200.1: offset 0.543951 delay 0.013072, next query 31s
+reply from 162.159.200.1: offset 0.544354 delay 0.012926, next query 32s
+reply from 162.159.200.1: offset 0.544463 delay 0.014359, next query 32s
+reply from 162.159.200.1: offset 0.544593 delay 0.013602, next query 30s
+adjusting local clock by 0.544354s
+reply from 162.159.200.1: offset 0.546227 delay 0.014364, next query 32s
+reply from 162.159.200.1: offset 0.547611 delay 0.014023, next query 30s
+reply from 162.159.200.1: offset 0.546942 delay 0.013347, next query 33s
+reply from 162.159.200.1: offset 0.548497 delay 0.015232, next query 32s
+reply from 162.159.200.1: offset 0.559983 delay 0.013747, next query 32s
+reply from 162.159.200.1: offset 0.559489 delay 0.012424, next query 33s
+adjusting local clock by 0.559489s
+reply from 162.159.200.1: offset 0.559596 delay 0.012551, next query 31s
+reply from 162.159.200.1: offset 0.564160 delay 0.022451, next query 30s
+reply from 162.159.200.1: offset 0.564234 delay 0.022061, next query 31s
+reply from 162.159.200.1: offset 0.564928 delay 0.022380, next query 31s
+reply from 162.159.200.1: offset 0.564518 delay 0.020306, next query 32s
+reply from 162.159.200.1: offset 0.563666 delay 0.018396, next query 33s
+reply from 162.159.200.1: offset 0.564810 delay 0.022445, next query 33s
+reply from 162.159.200.1: offset 0.564402 delay 0.022686, next query 32s
+adjusting local clock by 0.559596s
+adjusting clock frequency by 1280.000000 to 1780.000000ppm
+reply from 162.159.200.1: offset 0.564291 delay 0.020878, next query 30s
+reply from 162.159.200.1: offset 0.565103 delay 0.020563, next query 384s
+reply from 162.159.200.1: offset 0.577105 delay 0.024772, next query 373s
+reply from 162.159.200.1: offset 0.581488 delay 0.023742, next query 391s
